@@ -1,0 +1,1 @@
+# gorm-revel-issue
